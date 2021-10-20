@@ -14,4 +14,4 @@
 ![](https://gitee.com/unclestrong/deep-learning21_note/raw/master/imgbed/image-20210427085228640.png)
 
 ### Batch Normalization - Testing
-!7[](https://gitee.com/unclestrong/deep-learning21_note/raw/master/imgbed/image-20210427101956211.png)
+![](https://gitee.com/unclestrong/deep-learning21_note/raw/master/imgbed/image-20210427101956211.png)
